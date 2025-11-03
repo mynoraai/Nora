@@ -19,3 +19,4 @@ It does **not** contain Nora's proprietary contextual engine or other sensitive 
 
 ## Supported Networks and Assets:
 Nora currently supports USDC and USDT payments on the Solana networks.
+[Nora](https://sol.mynora.ai/pricing)
