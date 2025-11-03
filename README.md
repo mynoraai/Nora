@@ -16,3 +16,7 @@ Nora empowers developers to:
 ## Note
 This repo is intended for application review.
 It does **not** contain Nora's proprietary contextual engine or other sensitive components.
+
+## Supported Networks and Assets:
+Nora currently supports USDC and USDT payments on the Solana networks.
+[Nora](https://sol.mynora.ai/pricing)
