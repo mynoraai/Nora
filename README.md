@@ -17,5 +17,5 @@ Nora empowers developers to:
 This repo is intended for application review.
 It does **not** contain Nora's proprietary contextual engine or other sensitive components.
 
-## Supported Networks:
-Nora currently supports BSC (Binance Smart Chain) and Solana for payment and transaction processing.
+## Supported Networks and Assets:
+Nora currently supports USDC and USDT payments on the Binance Smart Chain (BSC) and Solana networks.
